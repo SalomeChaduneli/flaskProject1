@@ -38,3 +38,12 @@ The application should now be running locally at http://localhost:8080.
 
 
 
+## ✨ Features
+- Implemented Dark Mode for improved accessibility and visual comfort.
+
+## 🐛 Bug Fixes
+- Fixed an issue where user settings were not being saved correctly.
+
+## 👥 Contributors
+- Salome Chaduneli
+
